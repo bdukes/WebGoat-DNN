@@ -478,3 +478,5 @@ Desktop.ini
 .DS_Store
 
 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.*
+/Website/DesktopModules/Connectors/
+/Website/DesktopModules/MVC/Engage/WebGoat/bin/
