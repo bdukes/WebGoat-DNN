@@ -1,0 +1,480 @@
+/.nuget/
+/Build/
+/DNN Platform/
+/Evoq.Source/
+/EditBar/
+/PB.Ext/
+/PB.Lib/
+/Build_Install_Package.bat
+/Build_Upgrade_Package.bat
+/DNN_Core.sln
+/DNN_DynamicContent.sln
+/DNN_Platform.build
+/DNN_Platform.sln
+/DNN_PlatformNoTests.sln
+/dnnplatform.png
+/LICENSE
+/SolutionInfo.cs
+/Website/*/Default.aspx
+/Website/403-3.gif
+/Website/51Degrees.mobi.config
+/Website/admin/
+/Website/ApplicationInsights.config
+/Website/App_Browsers/
+/Website/App_Code/
+/Website/App_Data/
+/Website/App_GlobalResources/
+/Website/bin/
+/Website/Components/
+/Website/Config/
+/Website/controls/
+/Website/Default.aspx
+/Website/Default.aspx.cs
+
+/Website/DesktopModules/40Fingers/
+/Website/DesktopModules/ActiveForums/
+/Website/DesktopModules/ActiveForumsWhatsNew/
+/Website/DesktopModules/Admin/
+/Website/DesktopModules/AuthenticationServices/
+/Website/DesktopModules/BannerAdvertisers/
+/Website/DesktopModules/BannerDisplay/
+/Website/DesktopModules/bin/
+/Website/DesktopModules/Blog/
+/Website/DesktopModules/Cantarus/
+/Website/DesktopModules/CoreMessaging/
+/Website/DesktopModules/Dashboard/
+/Website/DesktopModules/DDRMenu/
+/Website/DesktopModules/DevicePreviewManagement/
+/Website/DesktopModules/DigitalAssets/
+/Website/DesktopModules/Dnn/
+/Website/DesktopModules/DNNCorp/
+/Website/DesktopModules/dnnGlimpse/
+/Website/DesktopModules/DnnSharp/ActionForm/
+/Website/DesktopModules/DnnSharp/ActionGrid/
+/Website/DesktopModules/DnnSharp/Common/
+/Website/DesktopModules/DnnSharp/MyTokens/
+/Website/DesktopModules/DnnSharp/*.manifest
+/Website/DesktopModules/Engage/ContentImport/
+/Website/DesktopModules/Engage/DnnPackageDeployment/
+/Website/DesktopModules/Engage/Jackrabbit/
+/Website/DesktopModules/Engage/Locator/
+/Website/DesktopModules/Engage/SQL/
+/Website/DesktopModules/EngageGoogleCustomSearchEngine/
+/Website/DesktopModules/EngageLocator/
+/Website/DesktopModules/Events/
+/Website/DesktopModules/Forum/
+/Website/DesktopModules/HTML/
+/Website/DesktopModules/IFrame/
+/Website/DesktopModules/Journal/
+/Website/DesktopModules/Links/
+/Website/DesktopModules/MemberDirectory/
+/Website/DesktopModules/MobileManagement/
+/Website/DesktopModules/MX/
+/Website/DesktopModules/OpenContent/
+/Website/DesktopModules/RazorCart/
+/Website/DesktopModules/RazorModules/
+/Website/DesktopModules/Reports/
+/Website/DesktopModules/SiteExportImport/
+/Website/DesktopModules/SiteImprove/
+/Website/DesktopModules/Smith*/
+/Website/DesktopModules/SocialGroups/
+/Website/DesktopModules/ToSIC_SexyContent/
+/Website/DesktopModules/ToSIC_Imazen_ImageResizer/
+/Website/DesktopModules/UserDefinedTable/
+/Website/DesktopModules/Vendors/
+/Website/DesktopModules/VDWWD_OpenGraph/
+/Website/DesktopModules/WillStrohl.OpenGraph/
+/Website/DesktopModules/XModPro/
+/Website/DesktopModules/MVC/Dnn/
+/Website/DesktopModules/MVC/RazorCart/
+/Website/DesktopModules/MVC/Web.config
+/Website/DesktopModules/**/module.css
+
+# Ventrian News Articles
+/Website/DesktopModules/DnnForge - NewsArticles/*.SqlDataProvider
+/Website/DesktopModules/DnnForge - NewsArticles/*.ascx
+/Website/DesktopModules/DnnForge - NewsArticles/*.ashx
+/Website/DesktopModules/DnnForge - NewsArticles/*.aspx
+/Website/DesktopModules/DnnForge - NewsArticles/*.css
+/Website/DesktopModules/DnnForge - NewsArticles/*.gif
+/Website/DesktopModules/DnnForge - NewsArticles/API/
+/Website/DesktopModules/DnnForge - NewsArticles/App_LocalResources/
+/Website/DesktopModules/DnnForge - NewsArticles/Controls/
+/Website/DesktopModules/DnnForge - NewsArticles/Images/
+/Website/DesktopModules/DnnForge - NewsArticles/Includes/
+/Website/DesktopModules/DnnForge - NewsArticles/SqlDataProvider/
+/Website/DesktopModules/DnnForge - NewsArticles/Templates/Default/
+/Website/DesktopModules/DnnForge - NewsArticles/Templates/Standard/
+/Website/DesktopModules/DnnForge - NewsArticles/Templates/**/*.css
+/Website/DesktopModules/DnnForge - NewsArticles/Tracking/
+/Website/DesktopModules/DnnForge - NewsArticles/web.config
+/Website/DesktopModules/DnnForge - LatestArticles/*.ascx
+/Website/DesktopModules/DnnForge - LatestArticles/App_LocalResources/
+/Website/DesktopModules/DnnForge - LatestArticles/Images/
+/Website/DesktopModules/DnnForge - LatestArticles/Templates/*/Listing.*.Html
+/Website/DesktopModules/DnnForge - LatestComments/
+/Website/DesktopModules/DnnForge - NewsArchives/
+/Website/DesktopModules/DnnForge - NewsSearch/
+
+# Engage Modules
+/Website/DesktopModules/Engage Software/Weblog/*.SqlDataProvider
+/Website/DesktopModules/Engage Software/Weblog/*.ascx
+/Website/DesktopModules/Engage Software/Weblog/*.css
+/Website/DesktopModules/Engage Software/Weblog/*.xml
+/Website/DesktopModules/Engage Software/Weblog/App_LocalResources/
+/Website/DesktopModules/Engage Software/Weblog/Controls/
+/Website/DesktopModules/Engage Software/Weblog/CSS/
+/Website/DesktopModules/Engage Software/Weblog/Images/
+/Website/DesktopModules/Engage Software/Weblog/JavaScript/
+/Website/DesktopModules/Engage Software/Weblog/Providers/
+/Website/DesktopModules/Engage Software/Weblog/Services/
+/Website/DesktopModules/Engage Software/Weblog/Subscriptions/
+/Website/DesktopModules/Engage Software/Weblog/Templates/*.pdf
+/Website/DesktopModules/Engage Software/Weblog/Templates/*.xsd
+/Website/DesktopModules/Engage Software/Weblog/Templates/Multi-Blog Listing/Category Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Multi-Blog Listing/Full Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Multi-Blog Listing/Short Author Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Multi-Blog Listing/Short Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Multi-Blog Listing/Tag Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Post Detail/Post/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Post Detail/Post Icon Styled/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Category Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/*.js
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Monthly Post Archive/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Post Listing Icon Styled/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Post Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Search/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Short Post Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Tag Listing/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Yearly Post Archive/
+/Website/DesktopModules/Engage Software/Weblog/Templates/Single Blog Listing/Subscription/
+/Website/DesktopModules/EngageCatalog/*.SqlDataProvider
+/Website/DesktopModules/EngageCatalog/*.ascx
+/Website/DesktopModules/EngageCatalog/*.css
+/Website/DesktopModules/EngageCatalog/*.xml
+/Website/DesktopModules/EngageCatalog/Admin/
+/Website/DesktopModules/EngageCatalog/App_LocalResources/
+/Website/DesktopModules/EngageCatalog/Controls/
+/Website/DesktopModules/EngageCatalog/Images/
+/Website/DesktopModules/EngageCatalog/JavaScript/
+/Website/DesktopModules/EngageCatalog/Navigation/
+/Website/DesktopModules/EngageCatalog/Player/
+/Website/DesktopModules/EngageCatalog/Templates/*.docx
+/Website/DesktopModules/EngageCatalog/Templates/*.txt
+/Website/DesktopModules/EngageCatalog/Templates/*.xsd
+/Website/DesktopModules/EngageCatalog/Templates/Admin/
+/Website/DesktopModules/EngageCatalog/Templates/Default/
+/Website/DesktopModules/EngageCatalog/Templates/Default-Category/
+/Website/DesktopModules/EngageCatalog/Templates/Default-Featured/
+/Website/DesktopModules/EngageCatalog/Templates/Default-Single/
+/Website/DesktopModules/EngageCatalog/Templates/DSIAssetList/
+/Website/DesktopModules/EngageCatalog/Templates/DSICategoryList/
+/Website/DesktopModules/EngageCatalog/Templates/DSIFeaturedAssetList/
+/Website/DesktopModules/EngageCatalog/Templates/GalleryList/
+/Website/DesktopModules/EngageCatalog/Templates/MiniList/
+/Website/DesktopModules/EngageCatalog/Templates/Narrow/
+/Website/DesktopModules/EngageCatalog/Templates/SimpleItemList/
+/Website/DesktopModules/EngageCatalog/Templates/WFGFilter/
+/Website/DesktopModules/EngageCatalog/Templates/WFGList/
+/Website/DesktopModules/EngageCatalog/Util/
+/Website/DesktopModules/EngageCatalog/Views/
+/Website/DesktopModules/EngageEmployment/
+/Website/DesktopModules/EngageEvents/*.SqlDataProvider
+/Website/DesktopModules/EngageEvents/*.ascx
+/Website/DesktopModules/EngageEvents/*.aspx
+/Website/DesktopModules/EngageEvents/*css
+/Website/DesktopModules/EngageEvents/*.xml
+/Website/DesktopModules/EngageEvents/Actions/
+/Website/DesktopModules/EngageEvents/Admin/
+/Website/DesktopModules/EngageEvents/App_LocalResources/
+/Website/DesktopModules/EngageEvents/Controls/
+/Website/DesktopModules/EngageEvents/Display/
+/Website/DesktopModules/EngageEvents/Images/
+/Website/DesktopModules/EngageEvents/Navigation/
+/Website/DesktopModules/EngageEvents/Providers/
+/Website/DesktopModules/EngageEvents/Samples/
+/Website/DesktopModules/EngageEvents/Services/
+/Website/DesktopModules/EngageEvents/Templates/*.pdf
+/Website/DesktopModules/EngageEvents/Templates/*.xsd
+/Website/DesktopModules/EngageEvents/Templates/Admin/ManageEvents/
+/Website/DesktopModules/EngageEvents/Templates/Default/
+/Website/DesktopModules/EngageEvents/Templates/Default-Single/
+/Website/DesktopModules/EngageEvents/Templates/Legacy-ListingAll/
+/Website/DesktopModules/EngageEvents/Templates/ListingShort/
+/Website/DesktopModules/EngageEvents/Templates/MiniList/
+/Website/DesktopModules/EngageEvents/Templates/Narrow/
+/Website/DesktopModules/EngageEvents/util/
+/Website/DesktopModules/EngageF3/
+/Website/DesktopModules/EngageRotator/*.SqlDataProvider
+/Website/DesktopModules/EngageRotator/*.ascx
+/Website/DesktopModules/EngageRotator/*.css
+/Website/DesktopModules/EngageRotator/*.xml
+/Website/DesktopModules/EngageRotator/App_LocalResources/
+/Website/DesktopModules/EngageRotator/bin/
+/Website/DesktopModules/EngageRotator/images/
+/Website/DesktopModules/EngageRotator/Providers/
+/Website/DesktopModules/EngageRotator/Templates/*.docx
+/Website/DesktopModules/EngageRotator/Templates/*.pdf
+/Website/DesktopModules/EngageRotator/Templates/*.xsd
+/Website/DesktopModules/EngageRotator/Templates/Element/
+/Website/DesktopModules/EngageRotator/Templates/Engage/
+/Website/DesktopModules/EngageRotator/Templates/Folio/
+/Website/DesktopModules/EngageRotator/Templates/Fresh/
+/Website/DesktopModules/EngageRotator/Templates/Image Gallery Plain/
+/Website/DesktopModules/EngageRotator/Templates/Legacy/
+/Website/DesktopModules/EngageRotator/Templates/Nebula/
+/Website/DesktopModules/EngageRotator/Templates/News/
+/Website/DesktopModules/EngageRotator/Templates/Product/
+/Website/DesktopModules/EngageRotator/Templates/Prototype/
+/Website/DesktopModules/EngageRotator/Templates/Pure/
+/Website/DesktopModules/EngageRotator/Templates/Ribbon/
+/Website/DesktopModules/EngageRotator/Templates/Serene/
+/Website/DesktopModules/EngageRotator/Templates/ThreeColumn/
+/Website/DesktopModules/EngageRotator/Templates/TwoColumn/
+
+# DNN Repository
+/Website/DesktopModules/Repository/*.sqldataprovider
+/Website/DesktopModules/Repository/*.txt
+/Website/DesktopModules/Repository/*.ascx
+/Website/DesktopModules/Repository/App_LocalResources/
+/Website/DesktopModules/Repository/*.gif
+/Website/DesktopModules/Repository/images/
+/Website/DesktopModules/Repository/js/
+/Website/DesktopModules/Repository/*.aspx
+/Website/DesktopModules/Repository/*.css
+/Website/DesktopModules/Repository/Templates/articles/
+/Website/DesktopModules/Repository/Templates/blog/
+/Website/DesktopModules/Repository/Templates/businesscards/
+/Website/DesktopModules/Repository/Templates/default/
+/Website/DesktopModules/Repository/Templates/default2/
+/Website/DesktopModules/Repository/Templates/directory/
+/Website/DesktopModules/Repository/Templates/filelist/
+/Website/DesktopModules/Repository/Templates/metro/
+/Website/DesktopModules/Repository/Templates/nifty/
+/Website/DesktopModules/Repository/Templates/niftytoggle/
+/Website/DesktopModules/Repository/Templates/niftyVideo/
+/Website/DesktopModules/Repository/Templates/portfolio/
+/Website/DesktopModules/Repository/Templates/Slides/
+
+# Form Master
+/Website/DesktopModules/Code5Systems_FormMaster/*.SqlDataProvider
+/Website/DesktopModules/Code5Systems_FormMaster/App_LocalResources
+/Website/DesktopModules/Code5Systems_FormMaster/assets/
+/Website/DesktopModules/Code5Systems_FormMaster/*.aspx
+/Website/DesktopModules/Code5Systems_FormMaster/*.txt
+/Website/DesktopModules/Code5Systems_FormMaster/*.ascx
+/Website/DesktopModules/Code5Systems_FormMaster/*.asmx
+/Website/DesktopModules/Code5Systems_FormMaster/*.htm
+/Website/DesktopModules/Code5Systems_FormMaster/*.css
+/Website/DesktopModules/Code5Systems_FormMaster/Templates/Default/
+
+# Search Boost
+/Website/DesktopModules/DnnSharp/SearchBoost/App_LocalResources/
+/Website/DesktopModules/DnnSharp/SearchBoost/backup/
+/Website/DesktopModules/DnnSharp/SearchBoost/Config/
+/Website/DesktopModules/DnnSharp/SearchBoost/DataProviders.SearchBoost/
+/Website/DesktopModules/DnnSharp/SearchBoost/RegCore/
+/Website/DesktopModules/DnnSharp/SearchBoost/res/
+/Website/DesktopModules/DnnSharp/SearchBoost/static/
+/Website/DesktopModules/DnnSharp/SearchBoost/Test/
+/Website/DesktopModules/DnnSharp/SearchBoost/templates/.common/
+/Website/DesktopModules/DnnSharp/SearchBoost/templates/input/default/
+/Website/DesktopModules/DnnSharp/SearchBoost/templates/input/default-obsolete-v3/
+/Website/DesktopModules/DnnSharp/SearchBoost/templates/output/default/
+/Website/DesktopModules/DnnSharp/SearchBoost/templates/output/default-obsolete-v3/
+/Website/DesktopModules/DnnSharp/SearchBoost/*.ashx
+/Website/DesktopModules/DnnSharp/SearchBoost/*.ascx
+/Website/DesktopModules/DnnSharp/SearchBoost/*.aspx
+/Website/DesktopModules/DnnSharp/SearchBoost/*.css
+/Website/DesktopModules/DnnSharp/SearchBoost/*.txt
+/Website/DesktopModules/DnnSharp/SearchBoost/*.zip
+
+/Website/development.config
+/Website/DNN.ico
+/Website/Documentation/
+/Website/DotNetNuke.config
+/Website/DotNetNuke.ico
+/Website/DotNetNuke.log4net.config
+/Website/DotNetNuke.webproj
+/Website/ErrorPage.aspx
+/Website/ErrorPage.aspx.cs
+/Website/favicon.ico
+/Website/Global.asax
+/Website/Icons/
+/Website/images/
+/Website/imagecache/
+/Website/Install/
+/Website/jquery.min.map
+/Website/js/
+/Website/KeepAlive.aspx
+/Website/KeepAlive.aspx.cs
+/Website/license.txt
+/Website/Licenses/
+/Website/MXWebServices/
+/Website/OAUTHAuthorize.aspx
+/Website/OAUTHLogin.aspx
+/Website/Portals/_default/admin.css
+/Website/Portals/_default/*.template
+/Website/Portals/_default/*.template.*.resx
+/Website/Portals/_default/*.template.resources
+/Website/Portals/_default/Cache/
+/Website/Portals/_default/CKEditorDefaultSettings.xml
+/Website/Portals/_default/CKToolbarButtons.xml
+/Website/Portals/_default/CKToolbarSets.xml
+/Website/Portals/_default/Config/
+/Website/Portals/_default/Containers/_default/
+/Website/Portals/_default/Containers/Aphelia/
+/Website/Portals/_default/Containers/Cavalier/
+/Website/Portals/_default/Containers/DarkKnight/
+/Website/Portals/_default/Containers/DarkKnightMobile/
+/Website/Portals/_default/Containers/Facebook/
+/Website/Portals/_default/Containers/Gravity/
+/Website/Portals/_default/Containers/Xcillion/
+/Website/Portals/_default/Content Templates/
+/Website/Portals/_default/default.css
+/Website/Portals/_default/Dnn.CKEditorDefaultSettings.xml
+/Website/Portals/_default/Dnn.CKToolbarButtons.xml
+/Website/Portals/_default/Dnn.CKToolbarSets.xml
+/Website/Portals/_default/EventQueue/
+/Website/Portals/_default/GettingStarted*
+/Website/Portals/_default/ie.css
+/Website/Portals/_default/Install/
+/Website/Portals/_default/Logs/
+/Website/Portals/_default/MergedTemplate/
+/Website/Portals/_default/portal.css
+/Website/Portals/_default/Skins/_default/
+/Website/Portals/_default/Skins/Aphelia/
+/Website/Portals/_default/Skins/Cavalier/
+/Website/Portals/_default/Skins/DarkKnight/
+/Website/Portals/_default/Skins/DarkKnightMobile/
+/Website/Portals/_default/Skins/Facebook/
+/Website/Portals/_default/Skins/Gravity/
+/Website/Portals/_default/Skins/Xcillion/
+/Website/Portals/_default/Skins/*/skin.css
+/Website/Portals/_default/Skins/*/OpenContent/Templates/_Reference/
+/Website/Portals/_default/Skins/*/OpenContent/Templates/*/builder.json
+/Website/Portals/_default/Skins/*/OpenContent/Templates/*/data.json
+/Website/Portals/_default/Skins/*/OpenContent/Templates/*/view.json
+/Website/Portals/_default/Skins/*/*-blessed*.css
+/Website/Portals/_default/Smileys/
+/Website/Portals/_default/subhost.aspx
+/Website/Portals/_default/Templates/
+/Website/Portals/_default/XModProLicense.Config
+/Website/Portals/0/
+/Website/Portals/1*/
+/Website/Portals/2*/
+/Website/Portals/3*/
+/Website/Portals/4*/
+/Website/Portals/5*/
+/Website/Portals/6*/
+/Website/Portals/7*/
+/Website/Portals/8*/
+/Website/Portals/9*/
+/Website/Portals/*/GettingStarted.css
+/Website/Portals/*/home.css
+/Website/Portals/*/Images/
+/Website/Portals/*/Logo.png
+/Website/Portals/*/Templates/
+/Website/Portals/*/portal.css
+/Website/Portals/*-System/
+/Website/Portals/Web.config
+/Website/Providers/
+/Website/release.config
+/Website/Resources/ContentRotator/
+/Website/Resources/ControlPanel/
+/Website/Resources/Dashboard/
+/Website/Resources/FeedBrowser/
+/Website/Resources/Libraries/
+/Website/Resources/MX/EmailTemplates/
+/Website/Resources/MX/Images/
+/Website/Resources/MX/Templates/Account.ascx
+/Website/Resources/MX/Templates/AddressForGeoRadiusSearch.ascx
+/Website/Resources/MX/Templates/Contact.ascx
+/Website/Resources/MX/Templates/ContactForGeoRadiusSearch.ascx
+/Website/Resources/MX/Templates/ContributionDetails.ascx
+/Website/Resources/MX/Templates/ContributionThumbnail.ascx
+/Website/Resources/MX/Templates/EventSession.ascx
+/Website/Resources/MX/Templates/Product.ascx
+/Website/Resources/MX/Templates/ProductDetails.ascx
+/Website/Resources/MX/Templates/ProductRelated.ascx
+/Website/Resources/MX/Templates/ProductThumbnail.ascx
+/Website/Resources/MX/Templates/SubscriptionThumbnail.ascx
+/Website/Resources/MX/Templates/Controls/BenefitAddToCart.ascx
+/Website/Resources/MX/Templates/Controls/BenefitRates.ascx
+/Website/Resources/MX/Templates/Controls/BenefitSubscriber.ascx
+/Website/Resources/MX/Templates/Controls/ContributionAddToCart.ascx
+/Website/Resources/MX/Templates/Controls/ContributionGivingLevel.ascx
+/Website/Resources/MX/Templates/Controls/ProductAddToCart.ascx
+/Website/Resources/MX/Templates/Controls/ProductPrices.ascx
+/Website/Resources/MX/Templates/Controls/ProductVariants.ascx
+/Website/Resources/Search/
+/Website/Resources/Shared/
+/Website/Resources/TabStrip/
+/Website/Resources/Widgets/
+/Website/Resources/images/
+/Website/Robots.txt
+/Website/signatures/
+/Website/SiteAnalytics.config
+/Website/SiteUrls.config
+/Website/Skins/
+/Website/SqlDataProviders/
+/Website/web.config
+/Website/web.*.config
+
+# child portals
+/Website/*/Default.aspx
+
+/*.md
+/.gitattributes
+/Documentation/
+/Website/*.csproj
+/Website/*.metaproj
+/Website/*.aspx.cs
+/Website/*.aspx.designer.cs
+/Website/compilerconfig.json
+/Website/packages.config
+/Website/Properties/AssemblyInfo.cs
+
+.well-known/
+
+typings/
+elm-stuff/
+node_modules/
+npm-debug.log
+/logs/
+
+.vs/
+.vscode/
+project.json.lock
+*.sublime-workspace
+*.user
+*.suo
+*.GhostDoc.xml
+StyleCop.Cache
+obj/
+**/*.Tests/bin/
+Cache/
+*.min.js
+*.map
+
+*.Host.resx
+*.Portal-*.resx
+*.zip.manifest
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignore because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+nuget.exe
+/gulpfile.user.js
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform.*

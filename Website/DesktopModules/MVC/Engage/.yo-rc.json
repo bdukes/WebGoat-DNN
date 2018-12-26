@@ -1,0 +1,9 @@
+{
+  "generator-dnn": {
+    "promptValues": {
+      "company": "Engage",
+      "companyUrl": "https://engagesoftware.com/",
+      "emailAddy": "bdukes@engagesoftware.com"
+    }
+  }
+}
