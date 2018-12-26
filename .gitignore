@@ -480,3 +480,4 @@ Desktop.ini
 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.*
 /Website/DesktopModules/Connectors/
 /Website/DesktopModules/MVC/Engage/WebGoat/bin/
+/Website/DesktopModules/MVC/Engage/WebGoat/_Packages/

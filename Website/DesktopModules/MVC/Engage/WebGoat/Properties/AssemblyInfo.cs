@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebGoat")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("WebGoat Module")]
+[assembly: AssemblyDescription("An intentionally insecure set of DNN extensions for teaching about common security flaws")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Engage")]
 [assembly: AssemblyProduct("WebGoat")]
-[assembly: AssemblyCopyright("Copyright © -2018")]
+[assembly: AssemblyCopyright("Copyright 2018 by Engage")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -30,5 +30,5 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("01.00.00.*")]
-[assembly: AssemblyFileVersion("01.00.00.*")]
+[assembly: AssemblyVersion("01.00.00")]
+[assembly: AssemblyFileVersion("01.00.00")]
