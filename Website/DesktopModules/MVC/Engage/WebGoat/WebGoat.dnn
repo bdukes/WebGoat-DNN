@@ -51,7 +51,7 @@
             <moduleDefinitions>
               <moduleDefinition>
                 <friendlyName>Web Goat: Injection</friendlyName>
-                <friendlyName>Web Goat: Injection</friendlyName>
+                <definitionName>Web Goat: Injection</definitionName>
                 <defaultCacheTime>0</defaultCacheTime>
                 <moduleControls>
                   <moduleControl>
