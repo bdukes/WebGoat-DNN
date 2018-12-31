@@ -117,22 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BasicSettings.Text" xml:space="preserve">
-    <value>Basic Settings</value>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Message</value>
   </data>
-  <data name="ControlTitle_settings.Text" xml:space="preserve">
-    <value>Module Settings</value>
-  </data>
-  <data name="lblSetting1.Help" xml:space="preserve">
-    <value>Put your value for Setting 1 here.</value>
-  </data>
-  <data name="lblSetting1.Text" xml:space="preserve">
-    <value>Setting One</value>
-  </data>
-  <data name="lblSetting2.Help" xml:space="preserve">
-    <value>Put your value for Setting 2 here.</value>
-  </data>
-  <data name="lblSetting2.Text" xml:space="preserve">
-    <value>Setting Two</value>
+  <data name="Send.Text" xml:space="preserve">
+    <value>Send</value>
   </data>
 </root>

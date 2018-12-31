@@ -1,0 +1,25 @@
+@inherits DotNetNuke.Web.Mvc.Framework.DnnWebViewPage<Engage.Modules.WebGoat.Models.InjectionViewModel>
+
+@using System.Web.Mvc
+@using System.Web.Mvc.Html
+@using DotNetNuke.Web.Mvc.Helpers
+
+<h1>Injection</h1>
+
+@foreach (var i in Model.Injections)
+{
+    <p>@i.Message</p>
+}
+
+<fieldset>
+    <div class="dnnFormItem">
+        <div class="dnnLabel" style="position: relative;">
+            @Html.LabelFor(m => Model.NewInjection.Message, Dnn.LocalizeString("Message"), new { @class = "col-md-2 control-label" })
+        </div>
+        @Html.TextAreaFor(m => Model.NewInjection.Message)
+    </div>
+
+    <div class="buttons">
+        <button type="submit" class="dnnPrimaryAction">@Dnn.LocalizeString("Send")</button>
+    </div>
+</fieldset>

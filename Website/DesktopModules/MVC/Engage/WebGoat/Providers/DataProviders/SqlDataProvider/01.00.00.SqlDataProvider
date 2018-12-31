@@ -1,0 +1,28 @@
+IF OBJECT_ID('WebGoat_Injection') IS NULL
+BEGIN
+	CREATE TABLE WebGoat_Injection (
+		Id INT IDENTITY(1,1) PRIMARY KEY,
+		Message NVARCHAR(MAX)
+	);
+END
+GO
+
+IF OBJECT_ID('WebGoat_GetInjections') IS NOT NULL
+BEGIN
+	DROP PROCEDURE WebGoat_GetInjections;
+END
+GO
+
+CREATE PROCEDURE WebGoat_GetInjections (
+	@top NVARCHAR(MAX) = '',
+	@order NVARCHAR(MAX) = 'Id ASC'
+)
+AS
+BEGIN
+	DECLARE @sql NVARCHAR(MAX) = '
+		SELECT ' + @top + ' Message
+		FROM WebGoat_Injection
+		ORDER BY ' + @order;
+	EXEC sp_executesql @sql; 
+END
+GO
