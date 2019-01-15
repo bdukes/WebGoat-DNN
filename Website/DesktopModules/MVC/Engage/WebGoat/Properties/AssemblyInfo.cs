@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Engage")]
 [assembly: AssemblyProduct("WebGoat")]
-[assembly: AssemblyCopyright("Copyright 2018 by Engage")]
+[assembly: AssemblyCopyright("Copyright 2019 by Engage")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

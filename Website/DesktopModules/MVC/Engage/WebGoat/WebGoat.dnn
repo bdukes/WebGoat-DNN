@@ -68,6 +68,25 @@
                 <permissions>
                 </permissions>
               </moduleDefinition>
+              <moduleDefinition>
+                <friendlyName>Web Goat: Broken Access Control</friendlyName>
+                <definitionName>Web Goat: Broken Access Control</definitionName>
+                <defaultCacheTime>0</defaultCacheTime>
+                <moduleControls>
+                  <moduleControl>
+                    <controlKey>
+                    </controlKey>
+                    <controlSrc>Engage.Modules.WebGoat.Controllers/BrokenAccessControl/ViewBill.mvc</controlSrc>
+                    <supportsPartialRendering>False</supportsPartialRendering>
+                    <controlTitle>WebGoat View Bill</controlTitle>
+                    <controlType>View</controlType>
+                    <iconFile />
+                    <helpUrl />
+                  </moduleControl>
+                </moduleControls>
+                <permissions>
+                </permissions>
+              </moduleDefinition>
             </moduleDefinitions>
           </desktopModule>
         </component>
