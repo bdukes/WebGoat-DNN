@@ -129,6 +129,8 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="API\ServiceRouteMapper.cs" />
+    <Compile Include="API\XmlExternalEntitiesController.cs" />
     <Compile Include="Components\FeatureController.cs" />
     <Compile Include="Controllers\InjectionController.cs" />
     <Compile Include="Models\Injection.cs" />
